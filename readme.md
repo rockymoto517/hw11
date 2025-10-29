@@ -1,6 +1,6 @@
 ### Challenges
 [Extracting State Logic into a Reducer](extracting-state/readme.md) \
-[Passing Data Deeply with Context](passing-data/readme.md) \
+[Passing Data Deeply with Context](passing-data/readme.md)
 
 ### Questions
 a. State lifting is the concept of moving state variables towards parent components to share state with child components. Props drilling is the opposite concept, referring to how props are passed down several layers of components (that may not necessarily require the props) in order to be used by a component that requires it.
